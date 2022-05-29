@@ -1,2 +1,3 @@
-# finance-machine-learning
+# machine-learning-finance
+
 finance machine learning projects
